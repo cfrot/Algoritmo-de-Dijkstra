@@ -31,7 +31,7 @@ Nesse exemplo:
 
 Quando essas conexões possuem valores numéricos, chamamos de:
 
-# 📊 Grafo ponderado
+# Grafo ponderado
 
 Exemplo:
 
